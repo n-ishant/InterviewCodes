@@ -1,5 +1,7 @@
 package BasicInterviewCodes;
 
+import java.util.Scanner;
+
 public class EvenOddJava {
 	
 	static void arrangeEvenOdd(int arr[], int n) {
